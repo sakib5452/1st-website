@@ -1,0 +1,20 @@
+.red{
+    color:red;
+}
+.sa{
+font-family: Arial Black ;
+font-size: 30px;
+padding: 55px;
+padding-left: 10%;
+}
+section{
+    display: flex;
+    .with{
+        width: 50%;
+        padding-left: 50%;
+    }
+}
+.sak{
+    height: 600px;
+    width: 640px;
+}
